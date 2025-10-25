@@ -1,1 +1,1 @@
-# teleton.pl-szkola-informacje-
+# teleton.pl/szkola/informacje/
